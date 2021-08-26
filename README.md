@@ -8,3 +8,5 @@ This basic python programming project will support:
 4. Create new final files with the student ID and the grades they received. 
 ## Getting started 
 Check the system if the python is configured to the newest version so that it could run smoothly. 
+## How to use
+In order for the system to mark the answers, follow the format similar to the class text files. 
