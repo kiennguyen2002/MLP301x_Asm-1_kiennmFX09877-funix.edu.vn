@@ -9,4 +9,6 @@ This basic python programming project will support:
 ## Getting started 
 Check the system if the python is configured to the newest version so that it could run smoothly. 
 ## How to use
-In order for the system to mark the answers, follow the format similar to the class text files. 
+In order for the system to mark the answers, follow the format similar to the class text files. (With the first to display the student id and followed by the answers)
+* Make sure that the files that you want the system to grade is in the same directory as the python file of the system 
+1. Run the python 
