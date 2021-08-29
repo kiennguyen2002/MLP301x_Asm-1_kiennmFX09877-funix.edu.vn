@@ -12,3 +12,7 @@ Check the system if the python is configured to the newest version so that it co
 In order for the system to mark the answers, follow the format similar to the class text files. (With the first to display the student id and followed by the answers)
 * Make sure that the files that you want the system to grade is in the same directory as the python file of the system 
 1. Run the python 
+2. Enter the name of the file that needs to be graded 
+3. If there is an error, fix the lines that appears in the errors section to enhance the accuracy of the system 
+4. The file (ex. class1.txt) will be create with (_grades.txt) at the end of the filename which is the finalize grade for each students.
+
